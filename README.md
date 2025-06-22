@@ -2,7 +2,7 @@
 
 ## 🔍 Overview
 
-`CustomImage` is a versatile SwiftUI abstraction that unifies static and remote image rendering into a single interface. It supports image tinting, custom placeholders, and fallback options — and internally leverages `CachedAsyncImage` for efficient remote image handling with memory and disk caching.
+`CustomImage` is a versatile SwiftUI abstraction that unifies static and remote image rendering into a single interface. It supports image tinting, custom placeholders, and fallback options — and internally leverages [CachedAsyncImage](https://github.com/petomuro/CachedAsyncImage) for efficient remote image handling with memory and disk caching.
 
 ## 🧱 Enum Definition
 
