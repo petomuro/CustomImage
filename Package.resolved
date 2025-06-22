@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "cachedasyncimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/petomuro/CachedAsyncImage",
+      "state" : {
+        "revision" : "c623c513611e2bba1c40b328adc6ba3faf6f891c",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
