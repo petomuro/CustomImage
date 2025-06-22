@@ -52,7 +52,7 @@ In those cases, `CustomImage` is necessary to handle loading, caching, and fallb
 
 ```swift
 // Used inside a component – recommended:
-Button(
+CustomButton(
     theme: .light,
     style: .solidPrimary,
     size: .normal,
